@@ -3,11 +3,6 @@ h1 a {
   font-family: 'Lato';
 }
 
-h1 b {
-  color: #ffffff;
-  font-family: 'Lobster';
-}
-
 body {
   padding-left: 15px;
 }
@@ -22,6 +17,7 @@ body {
   color: #ffffff;
   font-size: 36pt;
   text-decoration: none;
+  font-family: 'Lobster';
 }
 
 .content {
