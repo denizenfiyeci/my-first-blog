@@ -1,5 +1,10 @@
 h1 a {
-  color: #FCA205;
+  color: #886176;
+  font-family: 'Lato';
+}
+
+h1 b {
+  color: #ffffff;
   font-family: 'Lobster';
 }
 
@@ -8,7 +13,7 @@ body {
 }
 
 .page-header {
-  background-color: #ff9400;
+  background-color: #886176;
   margin-top: 0;
   padding: 20px 20px 20px 40px;
 }
@@ -21,10 +26,11 @@ body {
 
 .content {
   margin-left: 40px;
+  font-family: 'Lato';
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Lato';
 }
 
 .date {
